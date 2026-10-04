@@ -1,0 +1,6 @@
+{
+  "name": "Vivvyo Translator",
+  "description": "Lightweight, privacy-first, fully offline translator for text, voice, and images running entirely on-device.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
